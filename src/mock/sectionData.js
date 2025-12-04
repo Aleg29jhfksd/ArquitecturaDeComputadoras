@@ -5,7 +5,7 @@ export const sectionData = [
     imageSrc: ""  
   },  
   {  
-    title: "Sección Dos",  
+    title: "Mortadela",  
     text: "En esta segunda cajita, puedes agregar más detalles, historias o datos relevantes que complementen lo anterior. ¡Libera tu creatividad!",  
     imageSrc: ""  
   },  
