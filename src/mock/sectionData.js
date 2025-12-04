@@ -7,7 +7,7 @@ export const sectionData = [
   {  
     title: "Mortadela",  
     text: "En esta segunda cajita, puedes agregar más detalles, historias o datos relevantes que complementen lo anterior. ¡Libera tu creatividad!",  
-    imageSrc: ""  
+    imageSrc: "https://media.istockphoto.com/id/166155527/photo/cute-jack-russel-terrier-dog.jpg?s=612x612&w=0&k=20&c=qqbq7zfu1teB75wqM6cVVpZI1vMoCIy4yDfm2WYtb50="  
   },  
   {  
     title: "Sección Tres",  
