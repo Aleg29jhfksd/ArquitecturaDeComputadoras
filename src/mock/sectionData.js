@@ -16,9 +16,16 @@ export const sectionData = [
     imageSrc: "https://cdn.wccftech.com/wp-content/uploads/2022/09/13th-Gen-Intel-Core-2.jpg"  
   },  
   {  
-    title: "Mortadela",  
-    text: "En esta segunda cajita, puedes agregar más detalles, historias o datos relevantes que complementen lo anterior. ¡Libera tu creatividad!",  
-    imageSrc: "https://media.istockphoto.com/id/166155527/photo/cute-jack-russel-terrier-dog.jpg?s=612x612&w=0&k=20&c=qqbq7zfu1teB75wqM6cVVpZI1vMoCIy4yDfm2WYtb50="  
+    title: "Unidad 2: Estructura y funcionamiento del CPU",  
+    text: `
+    El CPU es el componente central de cualquier sistema de cómputo y se le considera el “cerebro” de la computadora. Su función principal es interpretar datos y ejecutar instrucciones mediante operaciones aritméticas, lógicas y de control. Para lograrlo, el procesador se organiza internamente en varias unidades: la ALU, los registros, la unidad de control y un sistema de interconexión interna compuesto por buses de datos, direcciones y control.
+
+    La ALU (Unidad Aritmética y Lógica) es responsable de realizar operaciones matemáticas básicas como suma y resta, además de evaluar operaciones lógicas como AND, OR y NOT. También efectúa desplazamientos de bits, útiles para multiplicaciones o divisiones. Los registros del procesador, por su parte, almacenan temporalmente instrucciones, direcciones y datos necesarios para la ejecución ágil de los programas. Entre ellos se destacan el Contador de Programa (PC), que almacena la dirección de la siguiente instrucción; el Registro de Instrucción (IR), que guarda la instrucción a ejecutar; y registros auxiliares como los de datos, índices, segmentos y el stack pointer. Además, existen registros de control y estado (como FLAGS), que contienen información vital del procesador y permiten monitorear resultados de operaciones, errores, estados del sistema y funcionamiento del sistema operativo.
+
+    La unidad de control coordina el funcionamiento del CPU. Obtiene las instrucciones desde la memoria (fase de fetch), las interpreta generando señales de control apropiadas (fase de decode) y finalmente ordena a la ALU u otros componentes ejecutar la instrucción (fase de execute). Este proceso, conocido como ciclo de instrucción, se repite continuamente mientras el procesador esté encendido. El ciclo es secuencial, automático y depende fuertemente de los registros (PC, MAR, MDR, IR) y la memoria principal. Sus funciones incluyen obtener, interpretar y ejecutar instrucciones, así como mantener el flujo del programa actualizado y eficiente.
+
+    `,  
+    imageSrc: "https://tse2.mm.bing.net/th/id/OIP.L9gaKYB-iTEJ-G-JBhTCcwHaFj?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=60&h=60&c=7&rs=1&o=7&rm=3"
   },  
   {  
     title: "Sección Tres",  
