@@ -21,7 +21,7 @@ const InfoSection = ({ title, text, imageSrc = '', index }) => {
           {imageSrc ? (  
             <img src={imageSrc} alt={title} className="w-full h-full object-cover rounded-xl" />  
           ) : (  
-            <span className="text-green-500 font-medium">Espacio para imagen {index + 1}</span>  
+            <span className="text-green-500 font-medium">Espacio para imagen xd {index + 1}</span>  
           )}  
         </div>  
       </div>  
