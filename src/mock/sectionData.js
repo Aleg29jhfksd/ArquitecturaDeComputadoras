@@ -10,10 +10,10 @@ export const sectionData = [
 
     Respecto a la memoria, la RAM es la memoria principal donde se almacenan temporalmente los datos y programas que la CPU utiliza mientras trabaja; es rápida pero volátil. Complementándola, existe la memoria caché, que es mucho más rápida y almacena datos usados frecuentemente para evitar que la CPU tenga que recurrir continuamente a la RAM. Esta memoria se organiza en niveles (L1, L2 y L3), siendo L1 la más rápida y pequeña y L3 la de mayor capacidad pero más lenta en comparación con las anteriores.
 
-    En cuanto a los sistemas de entrada y salida, se explican los dispositivos que permiten comunicar al usuario con la computadora, ya sea ingresando datos (como teclado o mouse), mostrando resultados (como el monitor) o realizando ambas funciones (como pantallas táctiles). También se describen los métodos de operación de E/S: la E/S programada, donde la CPU verifica constantemente si el dispositivo está listo; la E/S mediante interrupciones, en la que el dispositivo avisa a la CPU cuando necesita atención; y el acceso directo a memoria (DMA), que permite que ciertos dispositivos transfieran datos directamente a la memoria sin intervención continua del procesador, mejorando la eficiencia.
-    
+    En cuanto a los sistemas de entrada y salida, se explican  los dispositivos que permiten comunicar al usuario con la computadora, ya sea ingresando datos (como teclado o mouse), mostrando resultados (como el monitor) o realizando ambas funciones (como pantallas táctiles). También se describen los métodos de operación de E/S: la E/S programada, donde la CPU verifica constantemente si el dispositivo está listo; la E/S mediante interrupciones, en la que el dispositivo avisa a la CPU cuando necesita atención; y el acceso directo a memoria (DMA), que permite que ciertos dispositivos transfieran datos directamente a la memoria sin intervención continua del procesador, mejorando la eficiencia.
+
     `,
-    imageSrc: ""  
+    imageSrc: "https://cdn.wccftech.com/wp-content/uploads/2022/09/13th-Gen-Intel-Core-2.jpg"  
   },  
   {  
     title: "Mortadela",  
