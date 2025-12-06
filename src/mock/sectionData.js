@@ -1,7 +1,10 @@
+import { text } from "framer-motion/client";
+
 export const sectionData = [  
   {  
-    title: "Sección Uno",  
-    text: "Aquí va toda la información detallada que quieras compartir en esta primera parte. Es un espacio amplio para explicaciones o descripciones importantes.",  
+    title: "Unidad 1: Modelos de arquitectura",  
+    text: "Los modelos de arquitectura se dividen en:",  
+    text: "MdA Clasicos: son los mas antriguos y tradicionales. se basan en un solo procesador que ejecuta las instrucciones de manera secuencial",
     imageSrc: ""  
   },  
   {  
